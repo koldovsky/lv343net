@@ -47,5 +47,12 @@
         "image": "tesla-x.jpg",
         "description": "Best crossover in the World",
         "price": 99999.99
+    },
+    {
+        "id": "8",
+        "title": "Iphone 8 plus",
+        "image": "iphone8plus.jpg",
+        "description": "Almost the latest version of the best product",
+        "price":1000
     }
 ]
