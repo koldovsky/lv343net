@@ -54,6 +54,12 @@
         "image":"exterior-3.jpg",
         "description":"Comfortable vehicle for city",
         "price":10000
+    },
+    {
+        "id": "10",
+        "title": "Subaru Impreza",
+        "image": "subaru.jpg",
+        "description": "Super car on polish numbers",
+        "price": 100.00
     }
-    
 ]
