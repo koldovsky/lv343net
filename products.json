@@ -63,4 +63,12 @@
         "price":1000
 >>>>>>> 49a2c18636aed3ea11b4ebac0243095e778f0cd2
     }
+    {
+        "id": "10",
+        "title": "Subaru Impreza",
+        "image": "subaru.jpg",
+        "description": "Super car on polish numbers",
+        "price": 100.00
+    }
+
 ]
