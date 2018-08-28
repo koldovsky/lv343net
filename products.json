@@ -49,20 +49,19 @@
         "price": 99999.99
     },
     {
-<<<<<<< HEAD
         "id": "9",
         "title": "Audi A8",
         "image": "audiA8.jpg",
         "description": "The King of any city",
         "price": 59999.99
-=======
+    },
+    {    
         "id": "8",
         "title": "Iphone 8 plus",
         "image": "iphone8plus.jpg",
         "description": "Almost the latest version of the best product",
         "price":1000
->>>>>>> 49a2c18636aed3ea11b4ebac0243095e778f0cd2
-    }
+    },
     {
         "id": "10",
         "title": "Subaru Impreza",
