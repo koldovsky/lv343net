@@ -49,11 +49,18 @@
         "price": 99999.99
     },
     {
-        "id": "8",
+         "id": "8",
         "title": "Iphone 8 plus",
         "image": "iphone8plus.jpg",
         "description": "Almost the latest version of the best product",
         "price":1000
+    },
+    {
+        "id":"12",
+        "title":"Toyota Yaris",
+        "image":"exterior-3.jpg",
+        "description":"Comfortable vehicle for city",
+        "price":10000
     },
     {
         "id": "10",
@@ -63,11 +70,18 @@
         "price": 100.00
     },
     {
+
         "id": "33",
         "title": "Toyota Corolla",
         "image": "corolla.jpg",
         "description": "Comfortable car",
         "price": 5000.00
+    },
+    {
+        "id": "13",
+        "title": "Apple Ipod",
+        "image": "apple-ipod.jpg",
+        "description": "Portable media player",
+        "price": 150.00
     }
-
 ]
