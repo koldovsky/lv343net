@@ -49,19 +49,19 @@
         "price": 99999.99
     },
     {
-         "id": "8",
+        "id": "8",
         "title": "Iphone 8 plus",
         "image": "iphone8plus.jpg",
         "description": "Almost the latest version of the best product",
-        "price":1000
+        "price": 1000
     },
 
     {
-        "id":"12",
-        "title":"Toyota Yaris",
-        "image":"exterior-3.jpg",
-        "description":"Comfortable vehicle for city",
-        "price":10000
+        "id": "12",
+        "title": "Toyota Yaris",
+        "image": "exterior-3.jpg",
+        "description": "Comfortable vehicle for city",
+        "price": 10000
     },
     {
         "id": "10",
@@ -105,6 +105,13 @@
         "image": "apple-ipod.jpg",
         "description": "Portable media player",
         "price": 150.00
+    },
+    {
+        "id": "15",
+        "title": "Xiaomi Mi Mix",
+        "image": "miMixPhone.jpg",
+        "description": "Smartphone with great camera that open you a new world",
+        "price": 850
 
     }
 ]
