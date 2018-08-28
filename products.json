@@ -54,13 +54,19 @@
         "image": "iphone8plus.jpg",
         "description": "Almost the latest version of the best product",
         "price":1000
-    }
+    },
     {
         "id": "10",
         "title": "Subaru Impreza",
         "image": "subaru.jpg",
         "description": "Super car on polish numbers",
         "price": 100.00
+    },
+    {
+        "id": "11",
+        "title": "Chevrolet Corvette",
+        "image": "chevrolet.jpg",
+        "description": "The best car in the world",
+        "price": 15000.00
     }
-
 ]
