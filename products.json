@@ -70,7 +70,13 @@
         "price": 100.00
     },
     {
-
+        "id": "9",
+        "title": "Audi A8",
+        "image": "audiA8.jpg",
+        "description": "The King of any city",
+        "price": 59999.99
+    },
+    {
         "id": "33",
         "title": "Toyota Corolla",
         "image": "corolla.jpg",
