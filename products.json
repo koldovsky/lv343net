@@ -55,4 +55,12 @@
         "description": "Almost the latest version of the best product",
         "price":1000
     }
+    {
+        "id": "10",
+        "title": "Subaru Impreza",
+        "image": "subaru.jpg",
+        "description": "Super car on polish numbers",
+        "price": 100.00
+    }
+
 ]
