@@ -48,4 +48,12 @@
         "description": "Best crossover in the World",
         "price": 99999.99
     }
+    {
+        "id": "10",
+        "title": "Subaru Impreza",
+        "image": "subaru.jpg",
+        "description": "Super car on polish numbers",
+        "price": 100.00
+    }
+
 ]
