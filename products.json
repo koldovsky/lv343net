@@ -55,7 +55,6 @@
         "description": "Almost the latest version of the best product",
         "price":1000
     },
-
     {
         "id":"12",
         "title":"Toyota Yaris",
@@ -63,14 +62,20 @@
         "description":"Comfortable vehicle for city",
         "price":10000
     },
-
-
     {
         "id": "10",
         "title": "Subaru Impreza",
         "image": "subaru.jpg",
         "description": "Super car on polish numbers",
         "price": 100.00
+    },
+    {
+
+        "id": "33",
+        "title": "Toyota Corolla",
+        "image": "corolla.jpg",
+        "description": "Comfortable car",
+        "price": 5000.00
     },
     {
         "id": "13",
