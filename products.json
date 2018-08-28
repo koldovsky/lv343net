@@ -56,11 +56,25 @@
         "price": 1000
     },
     {
+        "id": "12",
+        "title": "Toyota Yaris",
+        "image": "exterior-3.jpg",
+        "description": "Comfortable vehicle for city",
+        "price": 10000
+    },
+    {
         "id": "10",
         "title": "Subaru Impreza",
         "image": "subaru.jpg",
         "description": "Super car on polish numbers",
         "price": 100.00
+    },
+    {
+        "id": "13",
+        "title": "Apple Ipod",
+        "image": "apple-ipod.jpg",
+        "description": "Portable media player",
+        "price": 150.00
     },
     {
         "id": "15",
