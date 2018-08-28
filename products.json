@@ -70,6 +70,13 @@
         "price": 100.00
     },
     {
+        "id": "20",
+        "title": "Nokia smartphone",
+        "image": "nokia.jpg",
+        "description": "The best phone ever",
+        "price": 40.01
+    },
+    }
         "id": "9",
         "title": "Audi A8",
         "image": "audiA8.jpg",
