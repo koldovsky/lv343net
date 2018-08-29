@@ -57,7 +57,7 @@
     },
 
     {
-        "id": "12",
+        "id": "9",
         "title": "Toyota Yaris",
         "image": "exterior-3.jpg",
         "description": "Comfortable vehicle for city",
@@ -79,35 +79,35 @@
         "price": 15000.00
     },
     {
-        "id": "20",
+        "id": "12",
         "title": "Nokia smartphone",
         "image": "nokia.jpg",
         "description": "The best phone ever",
         "price": 40.01
     },
     {
-        "id": "9",
+        "id": "13",
         "title": "Audi A8",
         "image": "audiA8.jpg",
         "description": "The King of any city",
         "price": 59999.99
     },
     {
-        "id": "33",
+        "id": "14",
         "title": "Toyota Corolla",
         "image": "corolla.jpg",
         "description": "Comfortable car",
         "price": 5000.00
     },
     {
-        "id": "13",
+        "id": "15",
         "title": "Apple Ipod",
         "image": "apple-ipod.jpg",
         "description": "Portable media player",
         "price": 150.00
     },
     {
-        "id": "15",
+        "id": "16",
         "title": "Xiaomi Mi Mix",
         "image": "miMixPhone.jpg",
         "description": "Smartphone with great camera that open you a new world",
