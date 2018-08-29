@@ -85,7 +85,7 @@
         "description": "The best phone ever",
         "price": 40.01
     },
-    }
+    {
         "id": "9",
         "title": "Audi A8",
         "image": "audiA8.jpg",
